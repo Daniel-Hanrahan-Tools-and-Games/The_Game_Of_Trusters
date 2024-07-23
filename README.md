@@ -2,6 +2,8 @@
 
 This is a role-playing game system that is based on relationships, trust, and fusions, the likes seen in comic books/manga and fantasy TV shows, those are the main inspirations for this system.
 
+The fingerblade killer enemy is a parody of Freddy Kruger, We are not affiliated with anyone affiliated in any way, shape or form with the creators of the Nightmare On Elm Street series.
+
 A Video Game adaptation is in this repository and it is mostly written in C with a bit of C++ and it is a text-based game.
 
 The enemy artwork bodies are meant to be colorized.
