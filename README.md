@@ -1,8 +1,10 @@
 # The_Game_Of_Trusters
 
-This is a Role Playing Game system that is based on relationships, trust and fusions, the likes seen in comic books/manga and fantasy TV shows, those are the main inspirations for this system.
+This is a role-playing game system that is based on relationships, trust, and fusions, the likes seen in comic books/manga and fantasy TV shows, those are the main inspirations for this system.
 
-A Video Game adaptation is in this repository and it is mostly written in C with a bit of C++ and it is a text based game.
+A Video Game adaptation is in this repository and it is mostly written in C with a bit of C++ and it is a text-based game.
+
+The enemy artwork bodies are meant to be colorized.
 
 You only need to compile the C++/.cpp file.
 
