@@ -6,7 +6,7 @@ A Video Game adaptation is in this repository and it is mostly written in C with
 
 The enemy artwork bodies are meant to be colorized.
 
-You only need to compile the C++/.cpp file.
+You only need to compile the C++/.cpp file for the video game adaptation.
 
 Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution-ShareAlike 4.0 International
 
