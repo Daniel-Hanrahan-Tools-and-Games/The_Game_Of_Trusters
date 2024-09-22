@@ -10,7 +10,7 @@ The enemy artwork bodies are meant to be colorized.
 
 You only need to compile the C++/.cpp file for the video game adaptation.
 
-The file you need to compile is The_Game_Of_Trusters_Video_Game.cpp
+The file you must compile is The_Game_Of_Trusters_Video_Game.cpp, located in The Game Of Trusters folder.
 
 Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution-ShareAlike 4.0 International
 
