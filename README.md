@@ -19,6 +19,3 @@ Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
 
 Contributors needed.
-
-<script type="text/javascript" src="https://udbaa.com/bnr.php?section=General&pub=978127&format=728x90&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/978127" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/728x90.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
