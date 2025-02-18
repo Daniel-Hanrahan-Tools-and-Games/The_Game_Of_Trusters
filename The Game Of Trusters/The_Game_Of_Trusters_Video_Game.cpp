@@ -169,7 +169,7 @@ void enemy() {
             scanf("%s", &charAction);
             break;
         case 4:
-            printf("You have encountered a tree monster, what will you do, 0:attack, 1:Talk: ");
+            printf("You have encountered a leprechaun, what will you do, 0:attack, 1:Talk: ");
             scanf("%s", &charAction);
             break;
         case 5:
