@@ -15,6 +15,19 @@ A Video Game adaptation is in this repository and it is mostly written in C with
   <li>To open the executable you just drag the executable into your terminal.</li>
 </ol>
 
+<h3>How to enable Mod Support</h3>
+<ol>
+  <li>If you are enabling mod support for this game, the mod file needs to be in home directory, if disabling mod support skip this step</li>
+  <li>Go into the .cpp file at line 362</li>
+  <li>Change the number in that line to 1 to enable mod support or number 2 to disable mod support</li>
+  <li>recompile</li>
+</ol>
+
+<h3>Mod Support Info</h3>
+<ul>
+  <li>To load a mod file, the mod file needs to be in the home directory and needs to be called The_Game_Of_Trusters_Mod.lua</li>
+</ul>
+
 The enemy artwork bodies are meant to be colorized.
 
 You only need to compile the C++/.cpp file for the video game adaptation.
