@@ -28,6 +28,8 @@ A Video Game adaptation is in this repository and it is mostly written in C with
   <li>To load a mod file, the mod file needs to be in the home directory and needs to be called The_Game_Of_Trusters_Mod.lua</li>
 </ul>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_Mod">Example Mod Repository Page</a>
+
 The enemy artwork bodies are meant to be colorized.
 
 You only need to compile the C++/.cpp file for the video game adaptation.
