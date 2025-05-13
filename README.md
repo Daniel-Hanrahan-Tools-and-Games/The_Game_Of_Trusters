@@ -8,9 +8,9 @@ A Video Game adaptation is in this repository and it is mostly written in C with
 
 <h3>How to compile the video game adaptation with g++</h3>
 <ol>
-  <li>Put this in the terminal first then press enter: g++ -c /"Path to the folder"/The_Game_Of_Trusters_Video_Game_Version_2/The_Game_Of_Trusters_Video_Game.cpp</li>
+  <li>Put this in the terminal first then press enter: g++ -c /"Path to the folder"/The_Game_Of_Trusters_Version_2/The_Game_Of_Trusters_Video_Game.cpp</li>
   <li>if g++ does not compile the .o file to the game folder then you have to transfer the .o file to your game folder from your home directory.</li>
-  <li>Put this in the terminal then press enter: g++ -o The_Game_Of_Trusters_Video_Game /"Path to the folder"/The_Game_Of_Trusters_Video_Game_Version_2/The_Game_Of_Trusters_Video_Game.o /"Path to the folder"/The_Game_Of_Trusters_Video_Game_Version_2/lua542Linux/liblua54.so</li>
+  <li>Put this in the terminal then press enter: g++ -o The_Game_Of_Trusters_Video_Game /"Path to the folder"/The_Game_Of_Trusters_Version_2/The_Game_Of_Trusters_Video_Game.o /"Path to the folder"/The_Game_Of_Trusters_Version_2/lua542Linux/liblua54.so</li>
   <li>The executable file will be in your home directory</li>
   <li>To open the executable you just drag the executable into your terminal.</li>
 </ol>
