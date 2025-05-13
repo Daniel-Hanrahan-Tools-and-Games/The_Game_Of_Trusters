@@ -1,0 +1,35 @@
+The Game Of Trusters Ruleset
+
+This work is licensed under Attribution-ShareAlike 4.0 International
+
+What The Player/s will Need:
+D20 Dice/20 sided die
+D12 Dice/12 sided die
+Single Digit D10 Dice/Single Digit 10 sided die
+D8 Dice/8 sided die
+D6 Dice/6 sided die
+D4 Dice/4 sided die
+
+There are true random number generators for these dice online.
+
+For one player when reading a book based off this game, when it says roll a specific die that one player can randomly think of one of the possible numbers on that die.
+
+
+Character Creation:
+1. Roll a D20 to get your stat points.
+2. Place your stat points in whichever 3 categories you want to put them in, there are 3 categories strength, mind and trust. Strength is how strong a person is, Mind is how wise and intellegent a person is and Trust is how likely a person is to fuse with another person. If a character has multiple personalities they each have their own three categories and stat points are shared between personalities.
+3. Create a Backstory for your character
+4. Create fusions for your character with other party members, there are three types of fusions
+	1. Where consciousnesses fuse. All stats of one character is multiplied by the other character that the character is fusing with, For Example: Character one has his stats multiplied by character twos stats when they fuse.
+	2. Where one counsciousness is fused with the other characters consciousnesses, that happens when one of the characters have multiple personalities. All stats of one characters personalities is multiplied by another characters stats, For Example: Character 1 with multiple personalities gets his personalities stats multiplied with character 2s stats when they fuse.
+	3. Where one consciousness becomes dominant or temporarily domanant making the person has multiple personalities. Only one of the characters stats get multiplied with this type of fusion, For Example: when character 1 who has high strength stat fuses with character 2 who has high intellegence stat, Character 1s intellegence stat is multiplied by character 2s intellegence stat if Character 1 is dominant, if character 2 is dominant then his strength stat gets multiplied by character 1s strength stat.
+	
+
+General Rules:
+For two characters to fuse at a specific moment in time, the player must roll a D20 to roll a number at or under the number of the character who has the lowest trust stat number. For Example: if one character has a trust stat of 10 and another character has a trust stat of 7 the player must roll a 7 or below for those characters to fuse. If 2 characters are in a romantic relationship then instead of a D20 being used a single digit D10 is used. I 2 characters are married then a D8 is used. In combat for a character to hit an enemy, the player must roll a D20 to get the characters strength stat as the result of the roll or a number lower than that number or else that character does not hit that enemy. The Dungeon Master can only put in a trap once every 5 minutes if dungeon master is human otherwise there is a one in twenty chance of a trap appearing. when the dungeon master says a specific character is walking towards a trap, the player must roll a D20 to get the number of that characters intellegence or a number lower than that or else the player dies. In conversations that is not with the players party, the player uses a D12 to to convince people to do things and must get a 12 or else the party does not convince that person. If the person semi trusts the party then a D6 is used and then the player must roll a 6 to convince that person. If the person trusts the party then a D4 is used and then the player must roll a 4 to convince that person. There must be a party of characters, more than one character and there is permadeath meaning if a character dies then that character cannot comeback. Once character is made stats cannot be changed. The players can play with other systems with this system but when moving to another system the players must say we are moving to another system and those systems are not covered under Attribution-ShareAlike 4.0 International.
+
+Foods that taste like the enemies:
+The Dragons and Wyverns taste like alligator or a culinary substitute. 
+The Leprechauns taste like ice cream wrapped up in mochi or culinary substitute. 
+The ants taste like honey candy or culinary substitute.
+The vampires taste like pancetta or culinary substitute.
