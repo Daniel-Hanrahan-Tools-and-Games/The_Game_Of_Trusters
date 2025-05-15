@@ -26,7 +26,7 @@ A Video Game adaptation is in this repository and it is mostly written in C with
 <h3>Mod Support Info</h3>
 <ul>
   <li>To load a mod file, the mod file needs to be in the home directory and needs to be called The_Game_Of_Trusters_Mod.lua</li>
-  <li>The mod libraries are platform specific so if yoou are not running linux you need to go here: https://sourceforge.net/projects/luabinaries/files/5.4.2/ and download the binaries for your platform and if the site asks you static or dynamic libraries, go to dynamic libraries, download, extract,and put all extracted files into a folder called lua542-Whatever platform you are using and change the directories for the libraries in the c++ file to lua542-Whatever platform you are using.</li>
+  <li>The mod libraries are platform specific so if you are not running linux you need to go here: https://sourceforge.net/projects/luabinaries/files/5.4.2/ and download the binaries for your platform and if the site asks you static or dynamic libraries, go to dynamic libraries, download, extract,and put all extracted files into a folder called lua542-Whatever platform you are using and change the directories for the libraries in the c++ file to lua542-Whatever platform you are using.</li>
 </ul>
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_Mod">Example Mod Repository Page</a>
