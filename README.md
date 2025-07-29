@@ -6,6 +6,8 @@ The fingerblade killer enemy is a parody of Freddy Kruger, We are not affiliated
 
 A Video Game adaptation is in this repository and it is mostly written in C with a bit of C++ and it is a text-based game.
 
+To execute executable on linux, you open up terminal then you drag the executable into terminal then press enter.
+
 <h3>How to compile the video game adaptation with g++</h3>
 <ol>
   <li>Put this in the terminal first then press enter: g++ -c /"Path to the folder"/The_Game_Of_Trusters_Version_2/The_Game_Of_Trusters_Video_Game.cpp</li>
