@@ -33,7 +33,7 @@ To execute executable on linux, you open up terminal then you drag the executabl
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_Mod">Example Mod Repository Page</a>
 
-If you would like the fantasy computer version that is compacted click here:<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_Compacted">Compacted Version Repository Page</a>
+If you would like the fantasy computer version that is compacted click here: <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_Compacted">Compacted Version Repository Page</a>
 
 The enemy artwork bodies are meant to be colorized.
 
