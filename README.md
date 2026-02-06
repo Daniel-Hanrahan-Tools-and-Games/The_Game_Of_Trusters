@@ -37,6 +37,11 @@ To execute executable on linux, you open up terminal then you drag the executabl
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/The_Game_Of_Trusters_Video_Game_Adaptation_Compacted/">Fantasy Computer Compacted Version ReadMe Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_GCSE/tree/main?tab=readme-ov-file">Game Creation System Version Repository Page</a>
+
+<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Game_Of_Trusters_Video_Game_Adaptation_GCSE/">Game Creation System Version ReadMe Page</a>
+
+
 The enemy artwork bodies are meant to be colorized.
 
 You only need to compile the C++/.cpp file for the video game adaptation.
