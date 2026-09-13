@@ -49,6 +49,10 @@ To execute executable on linux, you open up terminal then you drag the executabl
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/The_Game_Of_Trusters_Video_Game_Hot_Swappable/">Hot Swappable Version ReadMe Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_Chip_8">Chip_8 Version Repository Page</a>
+
+<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Game_Of_Trusters_Video_Game_Adaptation_Chip_8/">Chip_8 Compacted Version ReadMe Page</a>
+
 <a href="https://daniel-hanrahan-tools-and-games.github.io/MGSInfo.html">Information On Multi-Game-Systems</a>
 
 
